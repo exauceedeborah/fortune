@@ -1,0 +1,27 @@
+.ig{
+    
+     color: blue;
+     background-color: red;
+
+}
+
+.im{
+     background-color: yellow;
+}
+
+body{
+    color: black;
+}
+
+table{
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+    padding: 2px;
+}
+.i{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+    
